@@ -1,4 +1,4 @@
-## biomod2 scripts for Species Distribution Models £¨SDMs£©. 
+## biomod2 scripts for Species Distribution Models Â£Â¨SDMsÂ£Â©. 
 ## This script framework adopts the methodology outlined in Damien Georges's scripts and integrates standard procedures for constructing SDMs.
 ## 
 ##
@@ -13,7 +13,7 @@
 ## **by A. Guisan (1), W. Thuiller (2), N.E. Zimmermann (3) **
 ## with contribution by V. Di Cola, D. Georges and A. Psomas
 ## _(1) University of Lausanne, Switzerland_
-## _(2) CNRS, Universit¨¦ Grenoble Alpes, France_
+## _(2) CNRS, UniversitÂ¨Â¦ Grenoble Alpes, France_
 ## _(3) Swiss Federal Research Institute WSL, Switzerland_
 ## Cambridge University Press
 ## http://www.cambridge.org/gb/academic/subjects/life-sciences/quantitative-biology-biostatistics-and-mathematical-modellin/habitat-suitability-and-distribution-models-applications-r
